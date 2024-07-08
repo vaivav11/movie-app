@@ -24,3 +24,4 @@ A movie app built with React, NestJS, and TypeScript that allows users to add, e
 - Node.js
 - npm
 
+![Ekrano kopija 2024-07-06 225748](https://github.com/vaivav11/movie-app/assets/30071036/ad9c6f06-f9e3-4332-8bac-a159edf4bf05)
